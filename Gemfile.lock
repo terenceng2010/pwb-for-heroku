@@ -16,8 +16,8 @@ GIT
       ruby_odata
 
 GIT
-  remote: https://github.com/etewiah/property_web_builder
-  revision: 7460b79fd784d6277c5c2bd20c7969bbbfbce89b
+  remote: https://github.com/terenceng2010/property_web_builder
+  revision: d8e9b4b433be00f835b949d931f1f3764db3ea4b
   specs:
     pwb (1.4.0)
       active_hash
